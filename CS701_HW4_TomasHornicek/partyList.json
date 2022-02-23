@@ -1,0 +1,56 @@
+{
+    "senators" : [
+        {
+            "name" : "Richard Shelby",
+            "party" : "R",
+            "voted" : false
+        },
+        {
+            "name" : "Tommy Tuberville",
+            "party" : "R",
+            "voted" : false
+        },
+        {
+            "name" : "Lisa Murkowski",
+            "party" : "R",
+            "voted" : false
+        },
+        {
+            "name" : "Dan Sullivan",
+            "party" : "R",
+            "voted" : false
+        },
+        {
+            "name" : "Tom Cotton",
+            "party" : "R",
+            "voted" : false
+        },
+        {
+            "name" : "Kyrsten Sinema",
+            "party" : "D",
+            "voted" : false
+        },
+        {
+            "name" : "Mark Kelly",
+            "party" : "D",
+            "voted" : false
+        },
+        {
+            "name" : "Dianne Feinstein",
+            "party" : "D",
+            "voted" : false
+        },
+        {
+            "name" : "Alex Padilla",
+            "party" : "D",
+            "voted" : false
+        },
+        {
+            "name" : "Michael Bennet",
+            "party" : "D",
+            "voted" : false
+        }
+      
+       
+    ]
+}
